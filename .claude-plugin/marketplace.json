@@ -4,13 +4,13 @@
     "name": "Hachi"
   },
   "metadata": {
-    "description": "Claude Codeを使うビジネスオーナー向けプラグインのマーケットプレイス"
+    "description": "経営者向けClaude Codeプラグインのマーケットプレイス"
   },
   "plugins": [
     {
       "name": "aios-workspace",
       "source": "./plugins/aios-workspace",
-      "description": "ビジネスオーナー向けにチューニングされたClaude Codeワークスペースをブートストラップして運用する — オンボーディング、コンテキスト収集、計画立案、実行、継続的なメンテナンス",
+      "description": "経営者がClaude Codeを自分の事業向けに使い始め、AIオペレーティングシステムを構築するためのプラグイン。事業の情報を整理し、日々の計画・実行・振り返りまでをサポート。",
       "version": "0.1.0"
     }
   ]
