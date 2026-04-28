@@ -1,0 +1,17 @@
+{
+  "name": "aios-workspace",
+  "owner": {
+    "name": "Hachi"
+  },
+  "metadata": {
+    "description": "Claude Codeを使うビジネスオーナー向けプラグインのマーケットプレイス"
+  },
+  "plugins": [
+    {
+      "name": "aios-workspace",
+      "source": "./plugins/aios-workspace",
+      "description": "ビジネスオーナー向けにチューニングされたClaude Codeワークスペースをブートストラップして運用する — オンボーディング、コンテキスト収集、計画立案、実行、継続的なメンテナンス",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "aios-workspace",
+  "description": "ビジネスオーナー向けにチューニングされたClaude Codeワークスペースをブートストラップして運用する。ビジネスコンテキストを収集し、タスクを計画し、計画を実行し、ワークスペースの健全性を維持する。",
+  "version": "0.1.0",
+  "author": {
+    "name": "Hachi"
+  },
+  "keywords": ["business", "owner", "onboarding", "workspace", "context", "planning"]
+}
