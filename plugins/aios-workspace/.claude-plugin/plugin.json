@@ -1,9 +1,14 @@
 {
   "name": "aios-workspace",
   "description": "経営者がClaude Codeを自分の事業向けに使い始め、AIオペレーティングシステムを構築するためのプラグイン。事業の情報を整理し、日々の計画・実行・振り返りまでをサポート。",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
-    "name": "Hachi"
+    "name": "Hachi",
+    "email": "eito@ukiyoverse.net",
+    "url": "https://github.com/DeePeriver"
   },
-  "keywords": ["business", "owner", "onboarding", "workspace", "context", "planning"]
+  "homepage": "https://github.com/DeePeriver/aios-workspace",
+  "repository": "https://github.com/DeePeriver/aios-workspace",
+  "license": "MIT",
+  "keywords": ["business", "owner", "onboarding", "workspace", "context", "planning", "japanese", "経営者"]
 }
