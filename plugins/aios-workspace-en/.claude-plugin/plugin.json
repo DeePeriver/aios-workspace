@@ -1,0 +1,14 @@
+{
+  "name": "aios-workspace-en",
+  "description": "A plugin for business owners to start using Claude Code as an AI operating system tailored to their business. Organizes business information and supports the daily cycle of planning, execution, and reflection. (English version)",
+  "version": "0.1.4",
+  "author": {
+    "name": "Hachi",
+    "email": "eito@ukiyoverse.net",
+    "url": "https://github.com/DeePeriver"
+  },
+  "homepage": "https://github.com/DeePeriver/aios-workspace",
+  "repository": "https://github.com/DeePeriver/aios-workspace",
+  "license": "MIT",
+  "keywords": ["business", "owner", "onboarding", "workspace", "context", "planning", "english"]
+}
