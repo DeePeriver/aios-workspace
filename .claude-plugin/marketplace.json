@@ -17,7 +17,7 @@
       "name": "aios-workspace-en",
       "source": "./plugins/aios-workspace-en",
       "description": "A plugin for business owners to start using Claude Code as an AI operating system tailored to their business. Organizes business information and supports the daily cycle of planning, execution, and reflection. (English version)",
-      "version": "0.1.4"
+      "version": "0.2.0"
     }
   ]
 }

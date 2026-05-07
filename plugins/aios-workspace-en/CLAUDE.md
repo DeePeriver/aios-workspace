@@ -20,6 +20,7 @@ Skills are triggered automatically based on the topic or request. If you're not 
 | Think through an open question | `/aios-workspace-en:brainstorm <topic>` |
 | Add or update business context | `/aios-workspace-en:update-context <content>` |
 | Check workspace health | `/aios-workspace-en:audit-workspace` |
+| Run a tennis-industry radar report | `/aios-workspace-en:tennis-radar` |
 
 ---
 
@@ -29,7 +30,7 @@ Skills are triggered automatically based on the topic or request. If you're not 
 |---|---|
 | `context/` | What Claude knows about your business. Each skill reads relevant files as needed. |
 | `plans/` | Dated plans created by `plan` and executed by `execute`. |
-| `outputs/` | Finished deliverables produced during execution. |
+| `outputs/` | Finished deliverables produced during execution. The tennis-radar skill writes dated reports to `outputs/tennis-radar/`. |
 | `reference/` | Templates and reusable materials. |
 
 ---
